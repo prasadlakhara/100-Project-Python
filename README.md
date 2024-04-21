@@ -24,3 +24,15 @@ To explore the projects in this repository, simply navigate to the respective pr
 git clone https://github.com/prasadlakhara/100-python-projects.git
 cd 100-python-projects
 ```
+
+## Feedback and Contributions
+
+I welcome feedback, suggestions, and contributions from the community! If you have any ideas for improvements, new projects to add, or bug fixes, feel free to open an issue or submit a pull request. Together, we can make this repository even better!
+
+## Connect with Me
+
+If you have any questions, comments, or just want to say hello, you can reach out to me via email or connect with me on social media. I'd love to hear from you!
+
+- Email: prasadlakhara@gmail.com
+- Twitter: @yourtwitterhandle
+- LinkedIn: prasadlakhara

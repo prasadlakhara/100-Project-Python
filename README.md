@@ -35,4 +35,4 @@ If you have any questions, comments, or just want to say hello, you can reach ou
 
 - Email: prasadlakhara@gmail.com
 - Twitter: @yourtwitterhandle
-- LinkedIn: prasadlakhara
+- LinkedIn: [Prasad Lakhara](https://www.linkedin.com/in/prasadlakhara/)

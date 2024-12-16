@@ -34,5 +34,4 @@ I welcome feedback, suggestions, and contributions from the community! If you ha
 If you have any questions, comments, or just want to say hello, you can reach out to me via email or connect with me on social media. I'd love to hear from you!
 
 - Email: prasadlakhara@gmail.com
-- Twitter: @yourtwitterhandle
 - LinkedIn: [Prasad Lakhara](https://www.linkedin.com/in/prasadlakhara/)

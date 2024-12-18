@@ -24,6 +24,11 @@ To explore the projects in this repository, simply navigate to the respective pr
 git clone https://github.com/prasadlakhara/100-python-projects.git
 cd 100-python-projects
 ```
+## You May Need to Install 'Requests' Library
+
+```
+pip install requests
+```
 
 ## Feedback and Contributions
 

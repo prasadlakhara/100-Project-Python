@@ -24,10 +24,14 @@ To explore the projects in this repository, simply navigate to the respective pr
 git clone https://github.com/prasadlakhara/100-python-projects.git
 cd 100-python-projects
 ```
-## You May Need to Install 'Requests' Library
+## You May Need to Install Some Library
 
 ```
 pip install requests
+pip install beautifulsoup4 requests
+pip install numpy
+pip install transformers torch
+pip install openai
 ```
 
 ## Feedback and Contributions
